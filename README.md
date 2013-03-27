@@ -34,5 +34,6 @@ $('#menu').dynamicFloat([
 ```
 
 ### Copyright
+Written by Cole Brown @ drip.fm
+Released under the MIT license.
 
-None.
