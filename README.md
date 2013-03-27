@@ -7,9 +7,12 @@ A tiny jQuery plugin for dynamically updating DOM elements based on the current 
 HTML
 
 ```html
-<div id="menu" style="position: relative; top: 100px;">
-	Stuff
-</div>
+<!DOCTYPE html>
+<html>
+  <div id="menu" style="position: relative; top: 100px;">
+    Stuff
+  </div>
+</html>
 ```
 
 JavaScript
