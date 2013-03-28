@@ -1,4 +1,4 @@
-(function ($, _) {
+(function ($) {
   $.fn.dynamicFloat = function (lockPoints) {
     var self = this;
 
@@ -19,5 +19,5 @@
       });
     });
   };
-})(jQuery, _);
+})(jQuery);
 
