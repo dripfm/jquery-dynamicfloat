@@ -9,9 +9,13 @@ HTML
 ```html
 <!DOCTYPE html>
 <html>
-  <div id="menu" style="position: relative; top: 100px;">
-    Stuff
-  </div>
+  <head>
+  </head>
+  <body>
+    <div id="menu" style="position: relative; top: 100px;">
+      Stuff
+    </div>
+  </body>
 </html>
 ```
 
